@@ -1,1 +1,1 @@
-Git practice continued.
+We modified this text for an example.
